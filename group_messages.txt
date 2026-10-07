@@ -1,7 +1,2 @@
 IS316 - Group 9
 Noura: GitHub makes it easier 
-git status
-git add group_messages.txt
-git status
-git commit -m 
-git push
